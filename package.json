@@ -1,8 +1,9 @@
 {
+  "type": "module",
   "name": "terra-bot",
   "version": "1.0.0",
   "description": "A discord bot for Terra server made in javascript.",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
